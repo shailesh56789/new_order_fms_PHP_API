@@ -12,11 +12,7 @@ define('DB_USER', 'root');
 define('DB_PASS', ''); // XAMPP mein password khali hota hai
 
 
-// define('DB_HOST', '165.22.220.165');
-// define('DB_PORT', '3306');
-// define('DB_NAME', 'spalabsdomain_Kairali_CRM_Db'); // aapka database name
-// define('DB_USER', 'spalabsdomain_kairalicrm_users');
-// define('DB_PASS', 'SoPNxU*[zF~6W{=f'); // XAMPP mein password khali hota hai
+
 
 function getConnection(): PDO
 {
